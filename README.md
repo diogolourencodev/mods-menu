@@ -5,8 +5,6 @@ This project contains scripts and mods menus for various games. It serves as a l
 ## Games
 
 - DOOM64
-- Left 4 Dead 1
-- Left 4 Dead 2
 
 ## Features
 
