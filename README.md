@@ -5,6 +5,7 @@ This project contains scripts and mods menus for various games. It serves as a l
 ## Games
 
 - DOOM64
+- Dark Souls Remastered
 
 ## Features
 
